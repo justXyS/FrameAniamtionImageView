@@ -776,7 +776,7 @@
 				DEVELOPMENT_TEAM = DFDGMUMWDF;
 				INFOPLIST_FILE = castle/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.xunlei.live;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xiaoyuan.castle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "b65f3ea6-c25f-49fa-90ca-e115f107661c";
 				PROVISIONING_PROFILE_SPECIFIER = xllive_debug;
@@ -792,7 +792,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = castle/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.xunlei.live;
+				PRODUCT_BUNDLE_IDENTIFIER = com.xiaoyuan.castle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -816,6 +816,7 @@
 				D0645CE01E8BC7E300972E24 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
