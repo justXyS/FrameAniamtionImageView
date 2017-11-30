@@ -8,6 +8,7 @@
 
 #import "YCFrameAnimator.h"
 #import <objc/runtime.h>
+#include <sys/time.h>
 
 static NSString *const queueKey = @"queueKey";
 static NSString *const nexImageKey = @"nexImageKey";
